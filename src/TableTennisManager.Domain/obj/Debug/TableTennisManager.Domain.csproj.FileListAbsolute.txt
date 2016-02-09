@@ -1,0 +1,10 @@
+c:\RandD\TableTennis\TableTennisManager\TableTennisManager.Domain\bin\Debug\TableTennisManager.Domain.dll.config
+c:\RandD\TableTennis\TableTennisManager\TableTennisManager.Domain\bin\Debug\TableTennisManager.Domain.dll
+c:\RandD\TableTennis\TableTennisManager\TableTennisManager.Domain\bin\Debug\TableTennisManager.Domain.pdb
+c:\RandD\TableTennis\TableTennisManager\TableTennisManager.Domain\bin\Debug\EntityFramework.dll
+c:\RandD\TableTennis\TableTennisManager\TableTennisManager.Domain\bin\Debug\EntityFramework.SqlServer.dll
+c:\RandD\TableTennis\TableTennisManager\TableTennisManager.Domain\bin\Debug\EntityFramework.xml
+c:\RandD\TableTennis\TableTennisManager\TableTennisManager.Domain\bin\Debug\EntityFramework.SqlServer.xml
+c:\RandD\TableTennis\TableTennisManager\TableTennisManager.Domain\obj\Debug\TableTennisManager.Domain.csprojResolveAssemblyReference.cache
+c:\RandD\TableTennis\TableTennisManager\TableTennisManager.Domain\obj\Debug\TableTennisManager.Domain.dll
+c:\RandD\TableTennis\TableTennisManager\TableTennisManager.Domain\obj\Debug\TableTennisManager.Domain.pdb
